@@ -13,4 +13,4 @@ I'm a Business Intelligence Analyst with a passion for using SQL, Tableau, and P
 
 Let's connect!  
 📧 brandonrosser4@gmail.com  
-🔗 [LinkedIn](#)
+🔗 [LinkedIn][(#)](https://www.linkedin.com/in/brandonmrosser/)
