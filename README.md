@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Brandon!
 
-<!--
-**BrandonRosser/brandonrosser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Business Intelligence Analyst with a passion for using SQL, Tableau, and Python to turn data into clear stories and insights. I recently completed a BI program through TripleTen where I built real-world dashboards and analytical reports to help businesses make smarter decisions.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages & Tools**: SQL, Python, Excel, Tableau, Power BI, Google Sheets
+- **Focus Areas**: Dashboard Design, Data Cleaning, Business Insights, Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+- [Zomato Customer Insights Dashboard](https://public.tableau.com/app/profile/brandon.rosser/viz/RosserFinalSprint/HowManyUsersFallIntoEachActivityLevel?publish=yes)
+- [Superstore Category-State Sales Analysis](https://public.tableau.com/app/profile/brandon.rosser/viz/RosserSuperstore1_1/1_1category_state?publish=yes&showOnboarding=true)
+- [Return Trends Analysis Dashboard](https://public.tableau.com/app/profile/brandon.rosser/viz/RosserProject/DashboardFinal?publish=yes)
+
+Let's connect!  
+📧 brandonrosser4@gmail.com  
+🔗 [LinkedIn](#)
